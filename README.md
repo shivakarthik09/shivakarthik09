@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivakarthik09
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development from internshala
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science Course from Innomatics Research Labs
 - 📫 star90900@gmail.com <BR>
 - 📫 Phone no: 9542947935
 
