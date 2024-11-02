@@ -8,7 +8,7 @@
   <a href="tel:+19085001830">
     <img src="https://img.shields.io/badge/Phone-%2B19085001830-informational?style=flat&logo=phone&logoColor=white&color=blue" />
   </a>
-  <a href="https://www.linkedin.com/in/shivakarthik09/">
+  <a href="https://www.linkedin.com/in/shivakarthik0910/">
     <img src="https://img.shields.io/badge/LinkedIn-Shiva%20Karthik%20Pinjarle%20Manmohan-blue?style=flat&logo=linkedin" />
   </a>
 </p>
