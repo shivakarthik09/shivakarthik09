@@ -57,7 +57,7 @@ I am currently pursuing a Master's in Data Science at NJIT. Passionate about unc
 
 - **Email:** [sp3254@njit.edu](mailto:sp3254@njit.edu)
 - **Phone:** +1 908-500-1830
-- **LinkedIn:** [Shiva Karthik Pinjarle Manmohan](https://www.linkedin.com/in/shivakarthik09/)
+- **LinkedIn:** (https://www.linkedin.com/in/shivakarthik0910/)
 
 ---
 
