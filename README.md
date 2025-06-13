@@ -54,9 +54,9 @@ Graduated with a **Master's in Data Science from NJIT**, I have hands-on experie
 
 ### 📫 Contact Me  
 
-- **Email:** [shivakarthik0910@gmail.com](mailto:shivakarthik0910@gmail.com)  
-- **Phone:** +1 908-500-1830  
-- **LinkedIn:** [shivakarthik0910](https://www.linkedin.com/in/shivakarthik0910/)  
+- **Email:** [shivakarthik1009@gmail.com](mailto:shivakarthik1009@gmail.com)  
+- **Phone:** +1 973-780-4687  
+- **LinkedIn:** [shivakarthik1009](https://www.linkedin.com/in/shivakarthik1009/)  
 - **GitHub:** [shivakarthik09](https://github.com/shivakarthik09)  
 
 ---
