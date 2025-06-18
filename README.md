@@ -2,13 +2,13 @@
 <h3 align="center">Data Analyst | Data Scientist | AI Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:shivakarthik0910@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shivakarthik0910@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=red" />
+  <a href="mailto:shivakarthik1009@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shivakarthik1009@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=red" />
   </a>
-  <a href="tel:+19085001830">
+  <a href="tel:+19737804687">
     <img src="https://img.shields.io/badge/Phone-%2B19085001830-informational?style=flat&logo=phone&logoColor=white&color=blue" />
   </a>
-  <a href="https://www.linkedin.com/in/shivakarthik0910/">
+  <a href="https://www.linkedin.com/in/shivakarthik1009/">
     <img src="https://img.shields.io/badge/LinkedIn-Shiva%20Karthik%20Pinjarle%20Manmohan-blue?style=flat&logo=linkedin" />
   </a>
 </p>
