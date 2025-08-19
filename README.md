@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Email-shivakarthik1009@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=red" />
   </a>
   <a href="tel:+19737804687">
-    <img src="https://img.shields.io/badge/Phone-%2B19085001830-informational?style=flat&logo=phone&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/Phone-%2B19737804687-informational?style=flat&logo=phone&logoColor=white&color=blue" />
   </a>
   <a href="https://www.linkedin.com/in/shivakarthik1009/">
     <img src="https://img.shields.io/badge/LinkedIn-Shiva%20Karthik%20Pinjarle%20Manmohan-blue?style=flat&logo=linkedin" />
